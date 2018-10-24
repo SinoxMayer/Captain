@@ -1,5 +1,4 @@
-<div class="row">
-    <div class="col-md-push-2">
+
         <h2>Lila Kağıt</h2>
         <p>
              
@@ -12,16 +11,6 @@
             Lila Kağıt en son teknolojilerle ürettiği yenilikçi, kaliteli ve iddialı ürünleriyle Türkiye temizlik kağıdı pazarında lider olmayı hedeflemektedir. Bu doğrultuda Sofia, Maylo ve Berrak markaları altında topladığı tuvalet kağıdı, kağıt havlu, kağıt peçete ve kağıt mendil ürün çeşitleriyle tüketicilerin beklentilerini en iyi şekilde karşılarken; Ev Dışı Kullanım pazarında ise Nua Professional markası ile, Müşterilerinin ihtiyaçlarını yüksek kaliteli, güvenilir ve uygun fiyatlı ürünleri ile karşılamak için çalışmaktadır.
 
             Lojistik imkanlar dahilinde, dünya'nın her yerine her cins kağıt bobin satışı yapilabilmektedir. Bobin ve yarı mamul satışında lider olan Lila Kağıt dünyada yaklaşık 45 ülkeye ulaşıyor.
+</p>
 
 
-
-
-        </p>
-
-    </div>
-    <p><a   href="http://www.lilakagit.com/" class="btn btn-primarybtn-link">Daha Fazlası İçin &raquo;</a> 
-       <a class="btn btn-primary btn-link" href="http://www.lilakagit.com/sirketimiz/ilkelerimiz/">Unutmayalım &raquo;</a>
-    </p>
-    <p></p>
-
-</div>
